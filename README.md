@@ -1,7 +1,5 @@
-PHPUnit-Event-Demo
+PHPUnit-Test
 ==================
-
-## Branch: test1 
 
 ### 目錄結構
 * src - 程式
@@ -11,8 +9,8 @@ PHPUnit-Event-Demo
 ### 說明
 
 * src/PHPUnitEventDemo/
-    * Event.php - 活動類別
-    * User.php - 使用者類別
+    * Query.php - 使用者登入
+    * Course.php - 課程列表
 * tests/
-    * EventTest.php - 測試 `Event` 類別 
+    * QueryTest.php - test cases 
 # PHPUnit-Test
